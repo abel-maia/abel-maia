@@ -17,6 +17,7 @@
 </div>
 
 ### Como entrar em contato comigo?
- * Atualmente eu apenas estou respondendo e-mails, caso queira falar comigo, clique no botão abaixo.
+ * Atualmente eu apenas estou respondendo e-mails e discord, caso queira falar comigo, clique no botão abaixo.
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=NZVHGDCRNHMzlBmtlgMWRzWQpGpxpqLhlZXdRqzlkrmmQCFDgKTCqHkKlxrPlmZdHRPXqB" align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=NZVHGDCRNHMzlBmtlgMWRzWQpGpxpqLhlZXdRqzlkrmmQCFDgKTCqHkKlxrPlmZdHRPXqB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/channels/@me/364911517294133260"><p>DISCORD</p></a>
