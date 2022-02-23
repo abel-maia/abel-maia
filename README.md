@@ -14,8 +14,11 @@
 
 <div style="display: line-block;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px"/>
- <p>-</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" height="50px"/>
- <p>-</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px"/>
 </div>
+
+### Como entrar em contato comigo?
+ * Atualmente eu apenas estou respondendo e-mails, caso queira falar comigo, clique no botão abaixo.
+
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=NZVHGDCRNHMzlBmtlgMWRzWQpGpxpqLhlZXdRqzlkrmmQCFDgKTCqHkKlxrPlmZdHRPXqB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
