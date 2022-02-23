@@ -26,9 +26,9 @@
 ### Mais sobre mim.
 
 ```python3
-import me
+import me as m
 
-def iknow():
+def iknow(m):
   print('Eu também sei programar jogos, pra isso eu usso o game maker!')
   print('Eu também uso o unit!')
   
