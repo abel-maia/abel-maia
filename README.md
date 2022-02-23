@@ -26,5 +26,7 @@ main()
 
 <h1> How to contact me? </h1>
 <hr>
+<div style="display: inline-block;">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMkNZhVRHSTpDKRKxVjdVTFfvrjmHVGmNPSrKrWlBnNfFkRqtdgMqFrLVzxpXNqspHWLcNL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+</div>
