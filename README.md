@@ -24,4 +24,4 @@ main()
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" height="50px"/>
 </div>
 
-<a href="mailto:abel40g2a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMkNZhVRHSTpDKRKxVjdVTFfvrjmHVGmNPSrKrWlBnNfFkRqtdgMqFrLVzxpXNqspHWLcNL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
