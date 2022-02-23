@@ -16,6 +16,19 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px"/>
 </div>
 
+### Oque estou tentando aprender no momento?
+ * Atualmente estou tentando aprender: JavaScript, HTML, CSS, Ruby, MySQL e CPL 
+
+<div style="display: line-block;">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/>
+ 
+</div>
+
 ### Como entrar em contato comigo?
  * Atualmente eu apenas estou respondendo e-mails e discord, caso queira falar comigo, clique em um dos botôes abaixo.
 <div style="display: line-block;">
