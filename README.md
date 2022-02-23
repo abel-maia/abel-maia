@@ -7,8 +7,6 @@
   * Me chamo Abel, tenho 16 anos e ultimamente adquiri um gosto peculiar em full stack, embora eu não conheça muito desse ramo, porém, criei esse GitHub para eu postar todo meu processo evolutivo nessa área de full-stack, até eu aprender muito sobre!
   * Pretendo sim seguir o ramo profissional como um desenvolvedor full-stack.
 
-<!--><img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif"></!-->
-
 ### Quais são meus conhecimentos atuais?
  * Atualmente eu sei programar em Java, Python e Lua (Bem Básico)
 
@@ -21,4 +19,4 @@
 ### Como entrar em contato comigo?
  * Atualmente eu apenas estou respondendo e-mails, caso queira falar comigo, clique no botão abaixo.
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=NZVHGDCRNHMzlBmtlgMWRzWQpGpxpqLhlZXdRqzlkrmmQCFDgKTCqHkKlxrPlmZdHRPXqB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=NZVHGDCRNHMzlBmtlgMWRzWQpGpxpqLhlZXdRqzlkrmmQCFDgKTCqHkKlxrPlmZdHRPXqB" align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
