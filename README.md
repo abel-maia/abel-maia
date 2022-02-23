@@ -5,7 +5,8 @@
     * Ignore all.
 
 
-<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" style="align-items: center;">
+<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
+
 ``` python3
 from os import *
 
