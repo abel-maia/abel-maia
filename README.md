@@ -7,6 +7,13 @@
 <br>
 <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
 
-<code>
- 
-</code>
+``` python3
+from os import *
+
+print("Hello Word!")
+
+def main():
+ system('cls')
+ print('Hello!')
+main()
+```
