@@ -43,7 +43,7 @@ import me as m
 
 def iknow(m):
   print('Eu também sei programar jogos, pra isso eu uso o Game Maker!')
-  print('eu também sei usar o Unit!')
+  print('eu também sei usar o Unity!')
   
 iknow()
 ```
